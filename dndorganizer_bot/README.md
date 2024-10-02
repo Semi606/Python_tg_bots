@@ -23,7 +23,7 @@ For work, since this was my first bot, the **"telebot"** library was chosen. How
 
 ## Lessons Learned
 
-What did I learn while working on this project? First, I improved my skills in working with Python. If you don't take it so generally - I got acquainted with the libraries for working with Telegram functions and was able to make a very good working bot) Which after the end of the development I will send it to my server and it will be available 24/7 to everyone!
+What did I learn while working on this project? First, I improved my skills in working with Python. If you don't take it so generally - I got acquainted with the libraries for working with Telegram functions and was able to make a very good working bot) which after the end of the development I will send it to my server and it will be available 24/7 to everyone!
 
 
 ## Authors
