@@ -3,7 +3,7 @@ import telebot;
 from telebot import types;
 import json;
 
-bot = telebot.TeleBot('7087728399:AAGs6eukMBsP6pr8WsmZVKumYKCCkQZpR24');
+bot = telebot.TeleBot(TOKEN);
 
 @bot.message_handler(commands=['start'])
 def start(message):
@@ -486,6 +486,7 @@ def get_item_number_to_delete(message):
         del user_data_record['backpack'][item_number]
         save_user_data()
         bot.send_message(message.from_user.id, 'Предмет видалено.')
+
 
 
 
